@@ -136,7 +136,7 @@ class Kasir:
         print(f"Tanggal: {waktu.strftime('%Y-%m-%d')}")
         print(f"Waktu  : {waktu.strftime('%H:%M:%S')}")
         print("-"*40)
-        print("Produk           Qty    Harga    Subtotal")
+        print("Produk           Mie Ayam Kendil    Harga    Subtotal")
         print("-"*40)
         
         subtotal = 0
